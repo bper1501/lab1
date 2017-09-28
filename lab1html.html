@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    
+
+
+
+
+
+
+
+
+
+        <p id="display"> </p>
+
+
+
+
+
+        <script src="lab1.js"></script>
+        
+        <script>
+         var mostWC =0;
+         var country = "";
+         var qualify = 0;
+         for (x in worldCup){
+            if (mostWC < worldCup[x].WorldCupWon){
+                mostWC = worldCup[x].WorldCupWon;
+                country = worldCup[x].Country;
+                (qualify < worldCup[x].wcQualified)
+                qualify = worldCup[x].wcQualified;
+                
+                }
+           
+           
+
+         }
+         document.getElementById("display").innerHTML = country + " had the most world cups with " + mostWC + " and has qualified to" + qualify;
+         
+        </script>
+
+    </body>
+</html>
