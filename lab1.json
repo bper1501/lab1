@@ -1,0 +1,179 @@
+var worldCup = [
+  {
+    "Country": "Italy",
+    "WorldCup Won": 4,
+    "wc qualified To": "18 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 12
+  },
+  {
+    "Country": "Germany",
+    "WorldCup Won": 4,
+    "wc qualified To": "18 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 2
+  },
+  {
+    "Country": "Uruguay",
+    "WorldCup Won": 2,
+    "wc qualified To": "12 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 17
+  },
+  {
+    "Country": "Argentina",
+    "WorldCup Won": 2,
+    "wc qualified To": "16 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 3
+  },
+  {
+    "Country": "England",
+    "WorldCup Won": 1,
+    "wc qualified To": "14 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 13
+  },
+  {
+    "Country": "France",
+    "WorldCup Won": 1,
+    "wc qualified To": "14 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 10
+  },
+  {
+    "Country": "Spain",
+    "WorldCup Won": 1,
+    "wc qualified To": "14 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 11
+  },
+  {
+    "Country": "Switzerland",
+    "WorldCup Won": 0,
+    "wc qualified To": "10 of 20",
+    "BestRound": "Quarter",
+    "FIFA RANK": 4
+  },
+  {
+    "Country": "Poland",
+    "WorldCup Won": 0,
+    "wc qualified To": "7 of 20",
+    "BestRound": "Third",
+    "FIFA RANK": 5
+  },
+  {
+    "Country": "Portugal",
+    "WorldCup Won": 0,
+    "wc qualified To": "6 of 20",
+    "BestRound": "Third",
+    "FIFA RANK": 6
+  },
+  {
+    "Country": "Chile",
+    "WorldCup Won": 0,
+    "wc qualified To": "9 of 20",
+    "BestRound": "Third",
+    "FIFA RANK": 7
+  },
+  {
+    "Country": "Colombia",
+    "WorldCup Won": 0,
+    "wc qualified To": "5 of 20",
+    "BestRound": "Quarter",
+    "FIFA RANK": 8
+  },
+  {
+    "Country": "Belgium",
+    "WorldCup Won": 0,
+    "wc qualified To": "13 of 20",
+    "BestRound": "Fourth",
+    "FIFA RANK": 9
+  },
+  {
+    "Country": "Mexico",
+    "WorldCup Won": 0,
+    "wc qualified To": "15 of 20",
+    "BestRound": "Quarter",
+    "FIFA RANK": 14
+  },
+  {
+    "Country": "Peru",
+    "WorldCup Won": 0,
+    "wc qualified To": "4 of 20",
+    "BestRound": "Quarter",
+    "FIFA RANK": 15
+  },
+  {
+    "Country": "Croatia",
+    "WorldCup Won": 0,
+    "wc qualified To": "4 of 6(12/20)",
+    "BestRound": "Third",
+    "FIFA RANK": 16
+  },
+  {
+    "Country": "Wales",
+    "WorldCup Won": 0,
+    "wc qualified To": "1 of 20",
+    "BestRound": "Quarter",
+    "FIFA RANK": 18
+  },
+  {
+    "Country": "Sweden",
+    "WorldCup Won": 0,
+    "wc qualified To": "11 of 20",
+    "BestRound": "Runner",
+    "FIFA RANK": 19
+  },
+  {
+    "Country": "Iceland",
+    "WorldCup Won": 0,
+    "wc qualified To": "0 of 0",
+    "BestRound": "N/A",
+    "FIFA RANK": 20
+  },
+  {
+    "Country": "Costa Rica",
+    "WorldCup Won": 0,
+    "wc qualified To": "4 of 20",
+    "BestRound": "Quarter",
+    "FIFA RANK": 21
+  },
+  {
+    "Country": "Netherland",
+    "WorldCup Won": 0,
+    "wc qualified To": "10 of 20",
+    "BestRound": "Runner",
+    "FIFA RANK": 36
+  },
+  {
+    "Country": "Japan",
+    "WorldCup Won": 0,
+    "wc qualified To": "5 of 20",
+    "BestRound": "RO16",
+    "FIFA RANK": 44
+  },
+  {
+    "Country": "Turkey",
+    "WorldCup Won": 0,
+    "wc qualified To": "2 of 20",
+    "BestRound": "Third",
+    "FIFA RANK": 33
+  },
+  {
+    "Country": "USA",
+    "WorldCup Won": 0,
+    "wc qualified To": "10 of 20",
+    "BestRound": "Semis",
+    "FIFA RANK": 26
+  },
+  {
+    "Country": "Brazil",
+    "WorldCup Won": 5,
+    "wc qualified To": "20 of 20",
+    "BestRound": "Final",
+    "FIFA RANK": 1
+  }
+]
+
+
